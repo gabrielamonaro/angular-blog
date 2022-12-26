@@ -1,0 +1,8 @@
+.articles__main{
+    margin: 20px 10px ;
+}
+
+.articles{
+    display: flex;
+    justify-content: center;
+}
