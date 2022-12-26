@@ -1,5 +1,7 @@
 .container__menu-title{
     color: white;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
 }
 
 .container__menu-title h1{

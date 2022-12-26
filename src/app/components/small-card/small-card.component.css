@@ -12,9 +12,6 @@
 }
 
 .small-card_picture img{
-    height: 100%;
-    max-height: 100px;
-    width: 100%;
     max-width: 200px;
 }
 
