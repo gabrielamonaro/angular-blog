@@ -1,11 +1,10 @@
 .container__menu-title{
     color: white;
-    border-top: 1px solid gray;
     border-bottom: 1px solid gray;
 }
 
 .container__menu-title h1{
-    padding: 15px;
+    padding: 8px 15px 15px;
     font-size: 75px ;
     display: flex;
     justify-content: center;

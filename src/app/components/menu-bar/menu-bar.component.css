@@ -2,6 +2,8 @@
     width: 100%;
     display: flex;
     justify-content: center;
+    border-bottom: 1px solid grey;
+    margin-bottom: 5px;
 }
 
 .container__menu-bar ul{
